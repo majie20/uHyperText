@@ -1,0 +1,742 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000013361003906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4000011715965506}
+  - component: {fileID: 114000013211990174}
+  m_Layer: 0
+  m_Name: SymbolTextInit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000011715965506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013361003906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.90506375, y: 0.092448406, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000013211990174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013361003906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7453593a25c29c8499a463a376539d4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fonts:
+  - {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  sprites:
+  - {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 21300000, guid: ad2bde3ec6d154648993842428e49e6d, type: 3}
+  - {fileID: 21300000, guid: 9b04d993f338ef7429f3fd3ec8be6e81, type: 3}
+  - {fileID: 21300000, guid: 053e49f74fbf01f4abdefb7c28b3f1c1, type: 3}
+  - {fileID: 21300000, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300002, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300004, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300006, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300008, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300010, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300012, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300014, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300016, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300018, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300020, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300022, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300024, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300026, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
+  - {fileID: 21300000, guid: 3b92afecabb03a04ab008032d55e8b00, type: 3}
+  - {fileID: 21300000, guid: 990a769b3f09307499533fc481f1ce06, type: 3}
+  cartoons:
+  - name: 001
+    space: 2
+    width: 30
+    height: 30
+  - name: 1
+    space: 2
+    width: 36
+    height: 36
+  - name: 2
+    space: 2
+    width: 36
+    height: 36
+  - name: 3
+    space: 2
+    width: 36
+    height: 36
+  - name: 4
+    space: 2
+    width: 36
+    height: 36
+  - name: 5
+    space: 2
+    width: 36
+    height: 36
+  - name: 6
+    space: 2
+    width: 36
+    height: 36
+  - name: 7
+    space: 2
+    width: 36
+    height: 36
+  - name: 8
+    space: 2
+    width: 36
+    height: 36
+  - name: 9
+    space: 2
+    width: 36
+    height: 36
+  - name: 10
+    space: 2
+    width: 36
+    height: 36
+  - name: 11
+    space: 2
+    width: 36
+    height: 36
+  - name: 12
+    space: 2
+    width: 36
+    height: 36
+  - name: 13
+    space: 2
+    width: 36
+    height: 36
+  - name: 14
+    space: 2
+    width: 36
+    height: 36
+  - name: 15
+    space: 2
+    width: 36
+    height: 36
+  - name: 16
+    space: 2
+    width: 36
+    height: 36
+  - name: 17
+    space: 2
+    width: 36
+    height: 36
+  - name: 18
+    space: 2
+    width: 36
+    height: 36
+  - name: 19
+    space: 2
+    width: 36
+    height: 36
+  - name: 20
+    space: 2
+    width: 36
+    height: 36
+  - name: 21
+    space: 2
+    width: 36
+    height: 36
+  - name: 22
+    space: 2
+    width: 36
+    height: 36
+  - name: 23
+    space: 2
+    width: 36
+    height: 36
+  - name: 24
+    space: 2
+    width: 36
+    height: 36
+  - name: 25
+    space: 2
+    width: 36
+    height: 36
+  - name: 26
+    space: 2
+    width: 36
+    height: 36
+  - name: 27
+    space: 2
+    width: 36
+    height: 36
+  - name: 28
+    space: 2
+    width: 36
+    height: 36
+  - name: 29
+    space: 2
+    width: 36
+    height: 36
+  - name: 30
+    space: 2
+    width: 36
+    height: 36
+  - name: 31
+    space: 2
+    width: 36
+    height: 36
+  - name: 32
+    space: 2
+    width: 36
+    height: 36
+  - name: 33
+    space: 2
+    width: 36
+    height: 36
+  - name: 34
+    space: 2
+    width: 36
+    height: 36
+  - name: 35
+    space: 2
+    width: 36
+    height: 36
+  - name: 36
+    space: 2
+    width: 36
+    height: 36
+  - name: 37
+    space: 2
+    width: 36
+    height: 36
+  - name: 38
+    space: 2
+    width: 36
+    height: 36
+  - name: 39
+    space: 2
+    width: 36
+    height: 36
+  - name: 40
+    space: 2
+    width: 36
+    height: 36
+  - name: 41
+    space: 2
+    width: 36
+    height: 36
+  - name: 42
+    space: 2
+    width: 36
+    height: 36
+  - name: 43
+    space: 2
+    width: 36
+    height: 36
+  - name: 44
+    space: 2
+    width: 36
+    height: 36
+  - name: 45
+    space: 2
+    width: 36
+    height: 36
+  - name: 46
+    space: 2
+    width: 36
+    height: 36
+  - name: 47
+    space: 2
+    width: 36
+    height: 36
+  - name: 48
+    space: 2
+    width: 36
+    height: 36
+  - name: 49
+    space: 2
+    width: 36
+    height: 36
+  - name: 50
+    space: 2
+    width: 36
+    height: 36
+  - name: 51
+    space: 2
+    width: 36
+    height: 36
+  - name: 52
+    space: 2
+    width: 36
+    height: 36
+  - name: 53
+    space: 2
+    width: 36
+    height: 36
+  - name: 54
+    space: 2
+    width: 36
+    height: 36
+  - name: 55
+    space: 2
+    width: 36
+    height: 36
+  - name: 56
+    space: 2
+    width: 36
+    height: 36
+  - name: 57
+    space: 2
+    width: 36
+    height: 36
+  - name: 58
+    space: 2
+    width: 36
+    height: 36
+  - name: 59
+    space: 2
+    width: 36
+    height: 36
+  - name: 60
+    space: 2
+    width: 36
+    height: 36
+  - name: 61
+    space: 2
+    width: 36
+    height: 36
+  - name: 62
+    space: 2
+    width: 36
+    height: 36
+  - name: 63
+    space: 2
+    width: 36
+    height: 36
+  - name: 64
+    space: 2
+    width: 36
+    height: 36
+  - name: 74
+    space: 2
+    width: 36
+    height: 36
+  - name: 75
+    space: 2
+    width: 36
+    height: 36
+  - name: 76
+    space: 2
+    width: 36
+    height: 36
+  - name: 77
+    space: 2
+    width: 36
+    height: 36
+  - name: 78
+    space: 2
+    width: 36
+    height: 36
+  - name: 79
+    space: 2
+    width: 36
+    height: 36
+  - name: 80
+    space: 2
+    width: 36
+    height: 36
+  - name: 81
+    space: 2
+    width: 36
+    height: 36
+  - name: 82
+    space: 2
+    width: 36
+    height: 36
+  - name: 83
+    space: 2
+    width: 36
+    height: 36
+  - name: 84
+    space: 2
+    width: 36
+    height: 36
+  - name: 85
+    space: 2
+    width: 36
+    height: 36
+  - name: 86
+    space: 2
+    width: 36
+    height: 36
+  - name: 87
+    space: 2
+    width: 36
+    height: 36
+  - name: 88
+    space: 2
+    width: 36
+    height: 36
+  - name: 89
+    space: 2
+    width: 36
+    height: 36
+  - name: 90
+    space: 2
+    width: 36
+    height: 36
+  - name: 91
+    space: 2
+    width: 36
+    height: 36
+  - name: 92
+    space: 2
+    width: 36
+    height: 36
+  - name: 93
+    space: 2
+    width: 36
+    height: 36
+  - name: 94
+    space: 2
+    width: 36
+    height: 36
+  - name: 95
+    space: 2
+    width: 36
+    height: 36
+  - name: 96
+    space: 2
+    width: 36
+    height: 36
+  - name: 97
+    space: 2
+    width: 36
+    height: 36
+  - name: 98
+    space: 2
+    width: 36
+    height: 36
+  - name: 99
+    space: 2
+    width: 36
+    height: 36
+  - name: 102
+    space: 2
+    width: 36
+    height: 36
+  - name: 103
+    space: 2
+    width: 36
+    height: 36
+  - name: 104
+    space: 2
+    width: 36
+    height: 36
+  - name: 105
+    space: 2
+    width: 36
+    height: 36
+  - name: 106
+    space: 2
+    width: 36
+    height: 36
+  - name: 107
+    space: 2
+    width: 36
+    height: 36
+  - name: 108
+    space: 2
+    width: 36
+    height: 36
+  - name: 109
+    space: 2
+    width: 36
+    height: 36
+  - name: 110
+    space: 2
+    width: 36
+    height: 36
+  - name: 111
+    space: 2
+    width: 36
+    height: 36
+  - name: 112
+    space: 2
+    width: 36
+    height: 36
+  - name: 113
+    space: 2
+    width: 36
+    height: 36
+  - name: 115
+    space: 2
+    width: 36
+    height: 36
+  - name: 116
+    space: 2
+    width: 36
+    height: 36
+  - name: 117
+    space: 2
+    width: 36
+    height: 36
+  - name: 118
+    space: 2
+    width: 36
+    height: 36
+  - name: 120
+    space: 2
+    width: 36
+    height: 36
+  - name: 121
+    space: 2
+    width: 36
+    height: 36
+  - name: 122
+    space: 2
+    width: 36
+    height: 36
+  - name: 123
+    space: 2
+    width: 36
+    height: 36
+  - name: 124
+    space: 2
+    width: 36
+    height: 36
+  - name: 125
+    space: 2
+    width: 36
+    height: 36
+  - name: 126
+    space: 2
+    width: 36
+    height: 36
+  - name: 127
+    space: 2
+    width: 36
+    height: 36
+  - name: 128
+    space: 2
+    width: 36
+    height: 36
+  - name: 129
+    space: 2
+    width: 36
+    height: 36
+  - name: 130
+    space: 2
+    width: 36
+    height: 36
+  - name: 131
+    space: 2
+    width: 36
+    height: 36
+  - name: 132
+    space: 2
+    width: 36
+    height: 36
+  - name: 133
+    space: 2
+    width: 36
+    height: 36
+  - name: 134
+    space: 2
+    width: 36
+    height: 36
+  - name: 135
+    space: 2
+    width: 36
+    height: 36
+  - name: 136
+    space: 2
+    width: 36
+    height: 36
+  - name: 137
+    space: 2
+    width: 36
+    height: 36
+  - name: 138
+    space: 2
+    width: 36
+    height: 36
+  - name: 139
+    space: 2
+    width: 36
+    height: 36
+  - name: 140
+    space: 2
+    width: 36
+    height: 36
+  - name: 141
+    space: 2
+    width: 36
+    height: 36
+  - name: 142
+    space: 2
+    width: 36
+    height: 36
+  - name: 143
+    space: 2
+    width: 36
+    height: 36
+  - name: 144
+    space: 2
+    width: 36
+    height: 36
+  - name: 145
+    space: 2
+    width: 36
+    height: 36
+  - name: 146
+    space: 2
+    width: 36
+    height: 36
+  - name: 147
+    space: 2
+    width: 36
+    height: 36
+  - name: 148
+    space: 2
+    width: 36
+    height: 36
+  - name: 149
+    space: 2
+    width: 36
+    height: 36
+  - name: 150
+    space: 2
+    width: 36
+    height: 36
+  - name: 151
+    space: 2
+    width: 36
+    height: 36
+  - name: 152
+    space: 2
+    width: 36
+    height: 36
+  - name: 153
+    space: 2
+    width: 36
+    height: 36
+  - name: 154
+    space: 2
+    width: 36
+    height: 36
+  - name: 155
+    space: 2
+    width: 36
+    height: 36
+  - name: 156
+    space: 2
+    width: 36
+    height: 36
+  - name: 157
+    space: 2
+    width: 36
+    height: 36
+  - name: 158
+    space: 2
+    width: 36
+    height: 36
+  - name: 159
+    space: 2
+    width: 36
+    height: 36
+  - name: 160
+    space: 2
+    width: 36
+    height: 36
+  - name: 161
+    space: 2
+    width: 36
+    height: 36
+  - name: 162
+    space: 2
+    width: 36
+    height: 36
+  - name: 163
+    space: 2
+    width: 36
+    height: 36
+  - name: 165
+    space: 2
+    width: 36
+    height: 36
+  - name: 166
+    space: 2
+    width: 36
+    height: 36
+  - name: 167
+    space: 2
+    width: 36
+    height: 36
+  - name: 168
+    space: 2
+    width: 36
+    height: 36
+  - name: 169
+    space: 2
+    width: 36
+    height: 36
+  - name: 170
+    space: 2
+    width: 36
+    height: 36
+  - name: 171
+    space: 2
+    width: 36
+    height: 36
+  - name: 172
+    space: 2
+    width: 36
+    height: 36
+  - name: 173
+    space: 2
+    width: 36
+    height: 36
+  - name: 174
+    space: 2
+    width: 36
+    height: 36
+  - name: 175
+    space: 2
+    width: 36
+    height: 36
+  - name: 176
+    space: 2
+    width: 36
+    height: 36
+  - name: 177
+    space: 2
+    width: 36
+    height: 36
+  - name: 178
+    space: 2
+    width: 36
+    height: 36
+  - name: 179
+    space: 2
+    width: 36
+    height: 36
+  - name: 180
+    space: 2
+    width: 36
+    height: 36
+  - name: 181
+    space: 2
+    width: 36
+    height: 36
