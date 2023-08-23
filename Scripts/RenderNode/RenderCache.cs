@@ -345,7 +345,12 @@ namespace WXB
 
                 if (vh.currentVertCount != 0)
                 {
-                    Draw draw = key.Get(mOwner, materials[key.subMaterial]);
+                    var texture = materials[key.subMaterial];
+                    if (texture == null)
+                    {
+                        texture = Owner.self.font.material.mainTexture;
+                    }
+                    Draw draw = key.Get(mOwner, texture);
                     vh.FillMesh(workerMesh);
                     draw.FillMesh(workerMesh);
                     vh.Clear();

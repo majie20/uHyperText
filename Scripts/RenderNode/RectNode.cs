@@ -64,7 +64,7 @@ namespace WXB
 
             OnRectRender(cache, lines[(int)yline], areaRect);
 
-            x += width;
+            x += width + owner.GetWordSpacing(d_font, false);
 
 			if (d_bNewLine)
 			{

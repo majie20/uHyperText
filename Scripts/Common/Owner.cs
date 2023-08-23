@@ -14,7 +14,7 @@ namespace WXB
         Text self { get; }
 
         RenderCache renderCache { get; }
-        float GetWordSpacing(Font font);
+        float GetWordSpacing(Font font, bool isText);
         Anchor anchor { get; }
 
         void SetRenderDirty();

@@ -67,676 +67,1923 @@ MonoBehaviour:
   - {fileID: 21300026, guid: 5b32c2d36abe44540bed74c1f787033c, type: 3}
   - {fileID: 21300000, guid: 3b92afecabb03a04ab008032d55e8b00, type: 3}
   - {fileID: 21300000, guid: 990a769b3f09307499533fc481f1ce06, type: 3}
+  - {fileID: 21300000, guid: 91616a5ed19384a49981e610b375017f, type: 3}
   cartoons:
-  - name: 001
-    space: 2
-    width: 30
-    height: 30
   - name: 1
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    space: 2
+    width: 36
+    height: 36
+  - name: 001
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 2
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 3
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 4
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 5
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 6
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 7
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 8
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 9
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 10
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 11
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 12
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 13
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 14
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 15
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 16
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 17
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 18
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 19
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 20
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 21
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 22
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 23
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 24
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 25
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 26
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 27
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 28
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 29
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 30
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 31
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 32
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 33
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 34
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 35
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 36
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 37
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 38
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 39
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 40
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 41
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 42
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 43
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 44
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 45
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 46
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 47
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 48
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 49
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 50
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 51
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 52
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 53
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 54
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 55
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 56
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 57
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 58
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 59
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 60
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 61
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 62
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 63
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 64
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 74
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 75
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 76
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 77
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 78
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 79
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 80
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 81
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 82
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 83
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 84
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 85
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 86
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 87
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 88
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 89
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 90
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 91
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 92
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 93
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 94
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 95
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 96
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 97
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 98
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 99
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 102
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 103
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 104
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 105
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 106
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 107
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 108
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 109
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 110
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 111
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 112
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 113
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 115
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 116
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 117
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 118
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 120
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 121
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 122
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 123
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 124
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 125
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 126
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 127
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 128
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 129
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 130
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 131
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 132
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 133
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 134
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 135
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 136
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 137
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 138
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 139
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 140
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 141
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 142
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 143
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 144
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 145
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 146
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 147
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 148
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 149
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 150
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 151
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 152
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 153
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 154
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 155
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 156
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 157
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 158
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 159
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 160
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 161
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 162
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 163
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 165
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 166
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 167
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 168
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 169
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 170
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 171
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 172
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 173
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 174
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 175
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 176
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 177
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 178
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 179
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 180
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36
   - name: 181
+    frames:
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
+    - delay: 0.16600001
     space: 2
     width: 36
     height: 36

@@ -168,7 +168,7 @@ namespace WXB
                 {
                     //leftPos = Vector2.zero;
                     Font font = node.d_font;
-                    float wordspace = node.owner.GetWordSpacing(font);
+                    float wordspace = node.owner.GetWordSpacing(font, true);
                     FontStyle fs = node.d_fontStyle;
                     int fontSize = (int)((node.d_fontSize * pixelsPerUnit));
                     font.RequestCharactersInTexture(text, fontSize, fs);

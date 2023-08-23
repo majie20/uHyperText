@@ -86,16 +86,22 @@ namespace WXB
         bool isEnableMouseMove = false;
 
         public static System.Func<Font, float> WorldSpacingByFont = null;
-        float Owner.GetWordSpacing(Font font)
+        float Owner.GetWordSpacing(Font font, bool isText)
         {
-            if (wordSpacing == -1)
+            //if (wordSpacing == -1)
+            //{
+            //    if (WorldSpacingByFont != null)
+            //        return WorldSpacingByFont(font);
+            //}
+            if (isText)
             {
-                if (WorldSpacingByFont != null)
-                    return WorldSpacingByFont(font);
+                return wordSpacing;
             }
-
-            return wordSpacing;
+            return isEnableAllSpacing ? wordSpacing : 0;
         }
+
+        [SerializeField]
+        bool isEnableAllSpacing = false;
 
         [SerializeField]
         string m_SegmentElement = "Empty"; // 分割类型

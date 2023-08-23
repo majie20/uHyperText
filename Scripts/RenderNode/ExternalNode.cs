@@ -34,7 +34,7 @@ namespace WXB
         {
             if (root != null)
             {
-                UnityEngine.Object.Destroy(root.gameObject);
+                UnityEngine.Object.Destroy(root.gameObject, 0.01f);
                 root = null;
             }
         }

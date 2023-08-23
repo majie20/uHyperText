@@ -17,6 +17,7 @@ namespace WXB
         protected SerializedProperty m_LineAlignment;
         protected SerializedProperty wordSpacing;
         protected SerializedProperty isEnableMouseMove;
+        protected SerializedProperty isEnableAllSpacing;
         protected SerializedProperty m_onClick;
 
         protected override void OnEnable()
@@ -30,6 +31,7 @@ namespace WXB
             m_LineAlignment = serializedObject.FindProperty("m_LineAlignment");
             wordSpacing = serializedObject.FindProperty("wordSpacing");
             isEnableMouseMove = serializedObject.FindProperty("isEnableMouseMove");
+            isEnableAllSpacing = serializedObject.FindProperty("isEnableAllSpacing");
             m_onClick = serializedObject.FindProperty("m_onClick");
         }
 
@@ -79,6 +81,7 @@ namespace WXB
             // 字间距+
             EditorGUILayout.PropertyField(wordSpacing);
             EditorGUILayout.PropertyField(isEnableMouseMove);
+            EditorGUILayout.PropertyField(isEnableAllSpacing);
             EditorGUILayout.PropertyField(m_onClick);
             //if (wordSpacing.floatValue < 0)
             //    wordSpacing.floatValue = 0;
